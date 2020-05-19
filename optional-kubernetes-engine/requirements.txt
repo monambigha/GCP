@@ -1,8 +1,8 @@
 Flask==1.0.4
-google-cloud-datastore==1.7.1
-google-cloud-storage==1.23.0
-google-cloud-logging==1.8.0
-google-cloud-error_reporting==0.30.0
+google-cloud-datastore
+google-cloud-storage
+google-cloud-logging
+google-cloud-error_reporting
 gunicorn==19.9.0
 oauth2client==4.1.3
 mock==2.0.0
@@ -14,3 +14,4 @@ six==1.11.0
 requests[security]==2.21.0
 honcho==1.0.1
 psq==0.7.0
+google-cloud-pubsub
