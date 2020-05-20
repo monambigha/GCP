@@ -6,4 +6,3 @@ google-cloud-error-reporting
 gunicorn==19.9.0
 six>=1.11.0
 google-cloud-pubsub
-
